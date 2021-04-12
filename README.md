@@ -1,6 +1,6 @@
 
 <h2>👋  Hello World</h2>
-<p>I'm Jesse, a full stack web developer living in Seattle with a focus in mobile development and a keen eye for seamless UI integrated applications</p>
+<p>I'm Jesse, a full stack web developer living in Seattle with a focus in mobile development and a keen eye for seamless UI integrated applications.</p>
 <h2>🔧  Technologies </h2>
 
 <!--
