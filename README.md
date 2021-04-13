@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <h2>📈 Github Stats</h2>
 
-
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessesmith-13)](https://github.com/jessesmith-13/github-readme-stats)
