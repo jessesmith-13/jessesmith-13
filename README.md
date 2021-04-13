@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <h2>📫 Reach Me Here!</h2>
 
 
-![image](https://user-images.githubusercontent.com/68984305/114581489-9495a680-9c34-11eb-87e6-b86f6665280a.png)
+<a href="https://www.linkedin.com/in/jesselsmith713/">![image](https://user-images.githubusercontent.com/68984305/114581489-9495a680-9c34-11eb-87e6-b86f6665280a.png)</a>
