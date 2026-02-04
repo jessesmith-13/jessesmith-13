@@ -8,6 +8,9 @@ I’ve worked across the stack — from APIs and databases to polished UI — an
 
 ## 🛠️ Tech I Work With
 
+**Languages**
+- JavaScript, TypeScript, Python, PHP
+  
 **Frontend**
 - JavaScript, TypeScript
 - React, Next.js
@@ -23,12 +26,6 @@ I’ve worked across the stack — from APIs and databases to polished UI — an
 - AWS
 - Git & GitHub
 - CI/CD
-
----
-
-## 📊 GitHub Activity
-
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessesmith-13&show_icons=true&theme=default)
 
 ---
 
