@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Jesse
 
-I’m a **full-stack developer based in Seattle** focused on building user-centered, production-ready web applications. I care deeply about clean UX, thoughtful architecture, and turning ambiguous ideas into reliable products.
+I’m a **full-stack developer based in Seattle** focused on building user friendly, shippable web applications. I care deeply about clean UX, strong architecture, and turning ambiguous ideas into reliable products.
 
 I’ve worked across the stack — from APIs and databases to polished UI — and enjoy collaborating closely with clients and teams to ship meaningful software.
 
